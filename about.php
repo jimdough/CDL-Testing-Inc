@@ -53,20 +53,19 @@
 		 		 <div id="about">
 						<div class="title"><h3>About Us</h3></div>
 						<p>
-							Lorem ipsum dolor sit amet, consectetuer a , sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-						</p> 
+							 <strong>CDL Testing Inc.</strong> is the combined efforts of two CDL testing facilities in Delphi and Indianapolis, offering aspiring commercial drivers an equal chance at success. Both sites currently host examinations for Class A, Class B, and Class C licenses. Prep courses are also available for students seeking to gain a little extra knowledge and training before the test. (Check out our <a href="services.php">Services page</a> for details.)</p>
+							 
+		 		 
+						
 				 </div>
 				 <hr />
 				 <div id="history">
-						<div class="title"><h3>History</h3></div>
-						<p>
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed disectetuer adipiscing elit am nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+						<div class="title"><h3>About Our Locations</h3></div><br />
+						<h4><a href="cdl-testing-delphi-indiana.php">Delphi</a></h4><br />
+						<p><img src="img/Delphi.jpg" alt=Downtown Indianapolis width="300" height="200" align="right" />As the story goes, Delphi, Indiana was named after the legendary Delphi of Greece. While you probably won’t find any stone theaters or oracles nearby, you will discover a vibrant downtown, many city parks, and plenty of nature trails. If you're coming by for a quick visit or plan to stay for a while, you won't be disappointed with Delphi's recreational offerings.For more information about the testing site and its surrounding area, please contact a representative through our <a href="cdl-testing-delphi-indiana.php">Delphi page</a>. 
 						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+						<br /><h4><a href="cdl-testing-indianapolis-indiana.php">Indianapolis</a></h4><br />
+						<p><img src="img/Indianapolis.jpg" alt=Downtown Indianapolis width="300" height="200" align="right" /> One of those rare, cultural hotspots, Indianapolis has something to do for everyone. From buzzing nightlife and shopping, to zoos and waterparks, all visitors find plenty to do while in town. As the saying goes, if you were to hit downtown Indy every single night, it would be a year before stumbling into the same place twice. For more information about the testing site and its surrounding area, please contact a representative through our <a href="cdl-testing-indianapolis-indiana.php">Indianapolis page</a>. 
 						</p> 
 				 </div>
 		 	</section>

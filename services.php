@@ -54,29 +54,34 @@
 		 	 	 <section class="small-12 large-8 column">
 		 	 	 		<div id="services">
 						<div class="title"><h3>Our Services</h3></div>
-							<img src="img/service-large-01.jpg" alt="" />
+							<img src="img/CDL%20Testing%20Inc.%20Truck.jpg" alt="" />
 							 <hr />
-							<p>
-								Lorem ipsum dolor sit amet, consectetuer a , sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-							</p> 
-							<p>
-								Lorem ipsum dolor sit amet, consectetuer a , sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-							</p> 
-							<p>
-								Lorem ipsum dolor sit amet, consectetuer a , sed diam nonumm.Lorem ipsum dolor sit amet, consectetuer a , sed diam nonumm
+							
+								<h2>CDL Test</h2> <p>CDL Testing Inc. offers tests for drivers looking to earn their Class A, Class B, or Class C licenses. If interested in testing with us, contact one of our representatives in either the Delphi or Indianapolis tabs at the top of the page.</p> 
+								
+								<h2>Test Preparation Class</h3> <p>In addition, the facilities host test preparation classes where students can get a little extra help before they take their exams. Interested in a prep course? See details below.</p>
+			
+			<h3>Preparation Class Details</h2>						
+									<div style="margin-left: 5em;"><ul>
+										<li>All prep classes have a minimum length of 1 day and a maximum length of 5 days. No additional prep work will be available beyond the 5 days.</li>
+										<li>Tests dates will be scheduled 72 hours (3 days) in advance.</li>
+										<li>All testers must have their permit for a total of 14 days before a test date can be scheduled. Test schedules can be made on the 15th day of permit issue if available.</li>
+										<li>All tests fees must be paid prior to being scheduled for a test date.</li>
+										<li>There will be no refund of test fees if the tester does not cancel the test before 48 hours (2 days) of the scheduled test date.</li>
+										</div>
+							
+						
+							
 				 		</div>
 		 	 	 </section>
 		 	 	 <aside class="small-12 large-4 column ">
 		 	 	 		<div  class="widget">
-		 	 	 			<div class="title"><h3>Title here</h3></div>
-		 	 	 			<p>Lorem ipsum dolor sit amet, consectetuer a , sed diam nonumm.Lorem ipsum dolor sit amet.</p>
+		 	 	 			<div class="title"><h3>Testing Locations</h3></div>
+		 	 	 			<p>Currently, CDL Testing Inc. hosts tests and prep classes at two locations in Indiana:</p>
 							 <ul>
-							 	<li>Lorem ipsum dolor sit amet</li>
-							 	<li>Nonummy nibh euismod tincidunt</li>
-							 	<li>Lorem ipsum dolor sit amet</li>
-							 	<li>sed diam nonumm.Lorem ipsum dolor</li>
-							 	<li>Lorem ipsum dolor sit amet</li>
-							 	<li>Tincidunt ut laoreet </li>
+					<li><a href="cdl-testing-indianapolis-indiana.php">Indianapolis</a></li>
+					<li><a href="cdl-testing-delphi-indiana.php">Delphi</li>
+							 	
 							 </ul>
 						 </div>
 		 	 	 </aside>

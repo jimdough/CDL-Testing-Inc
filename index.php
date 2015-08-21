@@ -42,8 +42,8 @@
 						     <div class="row slider-box">
 						     		 <div class="slider-details small-12 large-7 columns">
 						     		 	<h2 class="custom-animated fadeInUpBig">CDL Testing, Inc.</h2>
-						     		 	<h4 class="custom-animated fadeInUpBig">Third Party CDL Skills Test Site</h4>
-						     		 	<p class="custom-animated fadeInUpBig"> All students attending Roadmaster Drivers School of Indiana will be receiving their testing service from CDL Testing, Inc. at one of the two approved testing locations.  In the unlikely event CDL Testing, Inc. is unable to schedule the Roadmaster students, they will be scheduled at one of the other approved third party test sites in the State.
+						     		 	<h4 class="custom-animated fadeInUpBig">Welcome!</h4>
+						     		 	<p class="custom-animated fadeInUpBig"> Test onsite at one of our two incredible Indiana locations. Check out our <strong>Services page</strong> to learn a little more of what is offered. Head over to our <strong>location tabs</strong> at the top of the page to contact a local representative. Good luck to all testing students! 
 							     		 	
 						     		 	</p>
 						     		 </div>
@@ -56,8 +56,8 @@
 						     <div class="row slider-box">
 						     		 <div class="slider-details small-12 large-7 columns">
 						     		 	<h2 class="custom-animated fadeInUpBig">CDL Testing, Inc.</h2>
-						     		 	<h4 class="custom-animated fadeInUpBig">Third Party CDL Skills Test Site</h4>
-						     		 	<p class="custom-animated fadeInUpBig"> Class A,B & C Testing Services</p>
+						     		 	<h4 class="custom-animated fadeInUpBig">Prep Courses</h4>
+						     		 	<p class="custom-animated fadeInUpBig">Think you could use a little help getting ready for you CDL test? Don't Worry! CDL Testing Inc. is pleased to offer Preparation Courses at both of our testing locations. For details, please visit our Services page.</p>
 						     		 </div>
 						     		 <div class="slider-image small-12 large-5 columns custom-animated fadeInRightBig">
 						     		 	<img src="img/slider/truck5.png" alt="CDL Testing, Inc." />
@@ -78,7 +78,7 @@
  				</div>
  				<div class="features-details">
  					<h4>Class A CDL Testing</h4>
- 					<p>Lorem ipsum dolor sit has ei ipsum  amet, has ei ipsum scaevola deseruisse am sea facilisis.</p>
+ 					<p>Earn your Class A CDL to drive tractor trailers and earn eligibility for recruitment in the Professional Trucking Industry.</p>
  				</div> 
  			</div> 
  			<div class="small-12 large-3 columns aligncenter features-box">
@@ -87,7 +87,7 @@
  				</div>
  				<div class="features-details">
  					<h4>Class B & C CDL Testing</h4>
- 					<p>Lorem ipsum dolor sit has ei ipsum  amet, has ei ipsum scaevola deseruisse am sea facilisis.</p>
+ 					<p>Earn your B and C CDL to operate vehicles such as dump trucks, passenger vehicles, and larger vans.</p>
  				</div> 
  			</div> 
  			<div class="small-12 large-3 columns aligncenter features-box">
@@ -96,8 +96,7 @@
  				</div>
  				<div class="features-details">
  					<h4>Test Preparation Classes</h4>
- 					<p>Lorem ipsum dolor sit has ei ipsum  amet, has ei ipsum scaevola deseruisse am sea facilisis.</p>
- 					<a href="#">Read more</a>
+ 					<p>Need a little help studying for the test? Sign up for one of our Test Preparation Classes.</p>
  				</div> 
  			</div> 
  			<div class="small-12 large-3 columns aligncenter features-box">
@@ -106,8 +105,7 @@
  				</div>
  				<div class="features-details">
  					<h4>Testing Vehicles</h4>
- 					<p>CDL Testing, Inc. will have commercial vehicles units in all classes available for use for tests</p>
- 					<a href="#">Read more</a>
+ 					<p>CDL Testing, Inc. will have commercial vehicle units in all classes available for use for tests.</p>
  				</div> 
  			</div>  			
  		</div>
@@ -116,9 +114,9 @@
  			 	<div class="row">
  			 		<div class="small-12">
  			 			<h3>
-			   				Lorem ipsum dolor sit has ei ipsum  amet, has ei ipsum scaevola am sea facilisis.
+			   				Ready to schedule your CDL test? 
 			   			</h3>
-			   			<h5> Has ei ipsum scaevola deseruisse am sea facilisis.</h5>
+			   			<h5>Click below to get started!</h5>
 			   			<br />
 			   			<a href="contact.php" class="button ">Request Quote</a>
  			 		</div>
