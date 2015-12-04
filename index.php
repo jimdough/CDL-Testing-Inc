@@ -37,30 +37,24 @@
 		 <section id="banner">
 		 	<div class="row">
 		 			<div class="small-12 columns">
-		 				 <ul data-orbit data-options="timer_speed:8000; navigation_arrows: false;bullets:false;  pause_on_hover: false; resume_on_mouseout: true;">
+		 				 <ul data-orbit data-options="timer_speed:8000; navigation_arrows:false; bullets:false; pause_on_hover:true; resume_on_mouseout:true;">
 						  <li>
 						     <div class="row slider-box">
-						     		 <div class="slider-details small-12 large-7 columns">
+						     		 <div class="slider-details small-12 large-11 columns">
 						     		 	<h2 class="custom-animated fadeInUpBig">CDL Testing, Inc.</h2>
 						     		 	<h4 class="custom-animated fadeInUpBig">Welcome!</h4>
 						     		 	<p class="custom-animated fadeInUpBig"> Test onsite at one of our two incredible Indiana locations. Check out our <strong>Services page</strong> to learn a little more of what is offered. Head over to our <strong>location tabs</strong> at the top of the page to contact a local representative. Good luck to all testing students! 
 							     		 	
 						     		 	</p>
 						     		 </div>
-						     		 <div class="slider-image small-12 large-5 columns custom-animated fadeInRightBig">
-						     		 	<img src="img/slider/road.png" alt="CDL Testing, Inc." />
-						     		 </div>
 						     </div>
 						  </li>
 						  <li>
 						     <div class="row slider-box">
-						     		 <div class="slider-details small-12 large-7 columns">
+						     		 <div class="slider-details small-12 large-11 columns">
 						     		 	<h2 class="custom-animated fadeInUpBig">CDL Testing, Inc.</h2>
 						     		 	<h4 class="custom-animated fadeInUpBig">Prep Courses</h4>
 						     		 	<p class="custom-animated fadeInUpBig">Think you could use a little help getting ready for you CDL test? Don't Worry! CDL Testing Inc. is pleased to offer Preparation Courses at both of our testing locations. For details, please visit our Services page.</p>
-						     		 </div>
-						     		 <div class="slider-image small-12 large-5 columns custom-animated fadeInRightBig">
-						     		 	<img src="img/slider/truck5.png" alt="CDL Testing, Inc." />
 						     		 </div>
 						     </div>
 						  </li>
@@ -68,6 +62,15 @@
 		 			</div>
 		 	</div>
 		 </section>
+		<!-- <section class="show-for-small">
+			 <div class="row">
+				 <img src="img/banner-asphault-small.jpg" alt="banner-asphault-small.jpg" width="640" height="150">
+				 <div class="columns small-12"><br>
+				 		<p>Test onsite at one of our two incredible Indiana locations. Check out our <a href="services.php">Services page</a> to learn a little more of what is offered. Head over to our <strong>locations</strong> at the top of the page to contact a local representative. Good luck to all testing students!</p>
+				 		<p>Think you could use a little help getting ready for you CDL test? Don't Worry! CDL Testing Inc. is pleased to offer Preparation Courses at both of our testing locations. For details, please visit our <a href="services.php">Services</a> page.</p>
+				 </div>
+			 </div>
+		 </section>-->
 		<!-- End: Banner -->
 		 
 		 <!-- Start:  features-box -->

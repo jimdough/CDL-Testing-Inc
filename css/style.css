@@ -212,9 +212,11 @@ a,a:focus,a:active{
 
 /* Banner Style */
 #banner, .page-title {
-	background: #dedddb url("../img/banner-bg-3.jpg") repeat 0 0 ; 
+	background: #dedddb url("../img/banner-asphault.jpg") no-repeat 0 0 ; 
+	background-color: black;
 	border-bottom:8px solid #e91b23;
-	margin-bottom: 25px;	 
+	margin-bottom: 25px;
+	min-height: 400px;
 }
  
 #banner .orbit-container{
@@ -291,7 +293,9 @@ a,a:focus,a:active{
 }
 
 .slider-box{
-	padding: 40px 0 5px;	
+	padding-top: 30px;	
+	padding-left: 385px;
+	min-height: 300px;
 }
 .slider-details{
 	top:70px;
@@ -305,7 +309,7 @@ a,a:focus,a:active{
  .slider-details p a.button{
 	margin-top: 15px;
 }
-.slider-details h2{color:#FFF; font-weight: bold; text-shadow: 1px 1px 1px #444;}
+.slider-details h2{color:yellow; font-weight: bold; text-shadow: 1px 1px 1px #444;}
 .slider-details h4{color:#F9F8F8;text-shadow: 1px 1px 1px #444;} 
 .slider-details p{color:#F9F8F8;text-shadow: 1px 1px 1px #444;}
 
